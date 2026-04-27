@@ -3,8 +3,8 @@
 
 @font-face {
     font-family: 'almonde';
-    src: url('https://jade-nedda-68.tiiny.site/almonde-webfont.woff2') format('woff2'),
-         url('https://jade-nedda-68.tiiny.site/almonde-webfont.woff') format('woff');
+    src: url('/workspaces/rpresources/docs/fonts/almonde-webfont.woff2') format('woff2'),
+         url('/workspaces/rpresources/docs/fonts/almonde-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
