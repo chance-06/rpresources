@@ -1,0 +1,14 @@
+.todapptext {
+	font-family: 'Lato';
+	font-size: 10px;
+	line-height:14px;
+	letter-spacing:-.02rem;	
+}
+	h1 .todapptext {
+		font-family: 'Almonde';
+		font-size:24px;
+		line-height:20px;
+		padding:5px;
+		margin:0px;
+		letter-spacing: 0.2rem;
+	}
