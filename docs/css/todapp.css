@@ -8,13 +8,31 @@
 }
 	.todapptext  h1{
 		font-family: 'Almonde';
-		font-size:24px;
-		line-height:20px;
+		font-size:26px;
+		line-height:22px;
 		padding:15px;
 		margin:0px;
-		letter-spacing: 0.05rem;
+		letter-spacing: 0.07rem;
 		font-weight:normal;
 		text-align:center;
+	}
+
+.todappconnections {
+	font-family: 'Lato';
+	font-size:10px;
+	line-height:14px;
+	letter-spacing:-.02rem;
+}
+
+	.todappconnections h1 {
+		font-family: 'Almonde';
+		font-size:26px;
+		line-height:22px;
+		padding:15px;
+		margin:0px;
+		letter-spacing: 0.07rem;
+		font-weight:normal;
+		border-bottom: 1px solid;
 	}
 
 </style>
