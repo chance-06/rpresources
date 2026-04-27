@@ -2,9 +2,8 @@
 
 .todapptext {
 	font-family: 'Lato';
-	font-size: 10px;
+	font-size: 11px;
 	line-height:14px;
-	letter-spacing:-.02rem;	
 }
 
 .todapptext p{
@@ -26,16 +25,15 @@
 
 .todappconnections {
 	font-family: 'Lato';
-	font-size:10px;
+	font-size:11px;
 	line-height:14px;
-	letter-spacing:-.02rem;
 }
 
 	.todappconnections h1{
 		font-family: 'Almonde';
 		font-size:26px;
 		line-height:22px;
-		padding:15px;
+		padding:15px 0px 15px 0px;
 		margin:0px;
 		letter-spacing: 0.07rem;
 		font-weight:normal;
