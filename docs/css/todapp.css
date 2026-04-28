@@ -1,23 +1,19 @@
 <style type="text/css">
 
 .todapptext {
-	font-family: 'Lato';
-	font-size: 11px;
-	line-height:14px;
+	font-family: 'Cascadia Mono';
+	font-size:11px;
+	line-height:16px;
+	font-weight:300;
+	font-style:italic;
 }
 
-.todapptext p{
-	font-family: 'Lato';
-	font-size: 11px;
-	line-height:14px;
-}
 	.todapptext  h1{
-		font-family: 'Almonde';
+		font-family: 'painted brush';
 		font-size:26px;
 		line-height:22px;
-		padding:15px;
+		padding:0px 15px 15px 15px;
 		margin:0px;
-		letter-spacing: 0.07rem;
 		font-weight:normal;
 		text-align:center;
 	}
@@ -29,12 +25,11 @@
 }
 
 	.todappconnections h1{
-		font-family: 'Almonde';
+		font-family: 'painted brush';
 		font-size:26px;
 		line-height:22px;
-		padding:15px 0px 15px 0px;
-		margin:0px;
-		letter-spacing: 0.07rem;
+		padding:15px 0px 5px 0px;
+		margin:0px 0px 10px 0px;
 		font-weight:normal;
 		border-bottom: 1px solid;
 	}
