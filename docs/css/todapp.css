@@ -1,7 +1,7 @@
 <style type="text/css">
 
 .todapptext {
-	font-family: 'Cascadia Mono';
+	font-family: "Cascadia Mono";
 	font-size:11px;
 	line-height:16px;
 	font-weight:300;
@@ -19,9 +19,11 @@
 	}
 
 .todappconnections {
-	font-family: 'Lato';
+	font-family: "Cascadia Mono";
 	font-size:11px;
-	line-height:14px;
+	line-height:16px;
+	font-weight:300;
+	font-style:italic;
 }
 
 	.todappconnections h1{
