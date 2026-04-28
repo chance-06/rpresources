@@ -128,3 +128,11 @@
     font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'Painted Brush';
+    src: url('https://chance-06.github.io/rpresources/fonts/PaintedBrush.woff2') format('woff2'),
+        url('https://chance-06.github.io/rpresources/fonts/PaintedBrush.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
