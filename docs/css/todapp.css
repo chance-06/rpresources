@@ -21,6 +21,10 @@
 		font-weight: 700;
 	}
 
+	.todapptext i{
+		font-style:normal;
+	}
+
 .todappconnections {
 	font-family: "Cascadia Mono";
 	font-size:11px;
