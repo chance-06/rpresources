@@ -136,3 +136,12 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'Rampage Monoline';
+    src: url('https://github.com/chance-06/rpresources/blob/main/docs/fonts/RampageMonolineRegular.woff2') format('woff2'),
+        url('https://github.com/chance-06/rpresources/blob/main/docs/fonts/RampageMonolineRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
