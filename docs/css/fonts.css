@@ -143,5 +143,5 @@
         url('https://github.com/chance-06/rpresources/blob/main/docs/fonts/RampageMonolineRegular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
+    font-display: block;
 }
